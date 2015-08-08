@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="150" height="20" tilewidth="45" tileheight="45" nextobjectid="1">
+ <tileset firstgid="1" name="hexmini" tilewidth="45" tileheight="45">
+  <image source="C:/Program Files (x86)/Tiled/examples/hexmini.png" width="106" height="72"/>
+ </tileset>
+ <tileset firstgid="3" name="rules_sewers" tilewidth="45" tileheight="45">
+  <image source="C:/Program Files (x86)/Tiled/examples/sewer_automap/rules_sewers.png" width="72" height="48"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="150" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt2jEKgEAQBME9/f+fjQQxvkaEKpgfdDhrZk6zzVsDe+mKgq4o6IqCrijoioKuKOiKgq4o6IqCrijoioKuKOiKgq4o6IqCrijoisLd1XvHY1//We2fuwCTWAO+
+  </data>
+ </layer>
+</map>

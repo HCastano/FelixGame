@@ -1,0 +1,39 @@
+[OPTIONS]
+Language=0x0409
+Default Font=Arial,8,0
+TITLE=Felix Help Menu
+Full-text search=Yes
+Display compile notes=YES
+Display compile progress=YES
+Compatibility=1.1
+Auto Index=No
+Default Window=Main
+Compiled file=FelixHelpMenu.chm
+Error Log file=FelixHelpMenu.log
+Contents file=FelixHelpMenu.hhc
+Index File=FelixHelpMenu.hhk
+[FILES]
+about.html
+menus.html
+game.html
+gameplay2.html
+wordsearch.html
+oceanlevels.html
+gettingahighscore.html
+hintsandtips.html
+help.png
+nexttopic.png
+prevtopic.png
+[WINDOWS]
+Main=,"FelixHelpMenu.hhc","FelixHelpMenu.hhk","","",,,,,0x061520,200,0x00304E,[50,50,850,450],0x307e,,,,,,,,0
+[ALIAS]
+about=about.html
+menus=menus.html
+game=game.html
+gameplay2=gameplay2.html
+wordsearch=wordsearch.html
+oceanlevels=oceanlevels.html
+gettingahighscore=gettingahighscore.html
+hintsandtips=hintsandtips.html
+[MAP]
+#include FelixHelpMenu.h
